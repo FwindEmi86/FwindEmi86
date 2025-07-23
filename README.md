@@ -28,6 +28,6 @@
 
 ## ✦ 活跃情况 ✦
 
-![FwindEmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FwindEmi&theme=tokyo-night)
+![FwindEmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FwindEmi86&theme=tokyo-night)
 
 -----
