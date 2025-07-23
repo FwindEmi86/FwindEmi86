@@ -14,12 +14,6 @@
 
 -----
 
-## ✦ 技术贡献活跃情况 ✦
-
-[![FwindEmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FwindEmi&theme=tokyo-night)]  
-
------
-
 ## ✦ 关于锐界幻境 ✦
 
 ### 🌌 服务器介绍
@@ -29,5 +23,11 @@
 ### 📚 实用链接
 
   * **锐界幻境文档：** 服务器的详细介绍、玩法攻略、常见问题都可以在这里找到！→ [https://miragedge.top/](https://miragedge.top/)
+
+-----
+
+## ✦ 活跃情况 ✦
+
+[![FwindEmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FwindEmi&theme=tokyo-night)]  
 
 -----
